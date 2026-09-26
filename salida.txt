@@ -1,0 +1,12 @@
+Ana solicita el libro "Patrones de Diseño".
+Biblioteca: préstamo aprobado para Ana.
+
+Carlos solicita el libro "Patrones de Diseño".
+Biblioteca: el libro no está disponible.
+
+Ana devuelve el libro "Patrones de Diseño".
+Biblioteca: libro disponible nuevamente.
+
+Carlos solicita el libro "Patrones de Diseño".
+Biblioteca: préstamo aprobado para Carlos.
+
